@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Thielson Alemendra",
     author_email="thielson12@gmail.com",
-    description="My short description",
+    description="This project is part of a bootcamp",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/BetaTH/image_processing_th.git"
