@@ -2,6 +2,15 @@
 
 Description. 
 The package package_name is used to:
+	Processing:
+		- Histrogam matching;
+		- Structural somilarity;
+		- Resize image.
+	Utils:
+		- Read image;
+		- Save image;
+		- Plot result;
+		- Plot histogram.
 	- 
 	-
 
@@ -21,7 +30,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Thielson Almendra
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
