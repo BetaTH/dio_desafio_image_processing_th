@@ -3,14 +3,14 @@
 Description. 
 The package package_name is used to:
 	Processing:
-		- Histrogam matching;
-		- Structural somilarity;
-		- Resize image.
+		- Histrogam matching
+		- Structural somilarity
+		- Resize image
 	Utils:
-		- Read image;
-		- Save image;
-		- Plot result;
-		- Plot histogram.
+		- Read image
+		- Save image
+		- Plot result
+		- Plot histogram
 
 ## Installation
 
