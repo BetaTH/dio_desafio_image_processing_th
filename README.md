@@ -1,30 +1,35 @@
-# package_name
+# img_processing_project_dio
 
-Description. 
-The package package_name is used to:
+Description:
+
+This project is part of Cloud Data Engineer bootcamp from DIO - Digital Innovation One.
+
+The package **img_processing_project_dio** is used to:
+
 	Processing:
-		- Histrogam matching
-		- Structural somilarity
-		- Resize image
+	- Histrogam matching
+	- Structural similarity
+	- Resize image
+
 	Utils:
-		- Read image
-		- Save image
-		- Plot result
-		- Plot histogram
+	- Read image
+	- Save image
+	- Plot result
+	- Plot histogram
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install **img_processing_project_dio**
 
 ```bash
-pip install package_name
+pip install img-processing-project-dio
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image-processing-desafio-dio.processing import combination, transformation
+from image-processing-desafio-dio.utils import io, plot
 ```
 
 ## Author
