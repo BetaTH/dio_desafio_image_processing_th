@@ -11,8 +11,6 @@ The package package_name is used to:
 		- Save image;
 		- Plot result;
 		- Plot histogram.
-	-
-	-
 
 ## Installation
 
