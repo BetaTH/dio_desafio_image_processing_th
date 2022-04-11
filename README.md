@@ -28,8 +28,8 @@ pip install img-processing-project-dio
 ## Usage
 
 ```python
-from image-processing-desafio-dio.processing import combination, transformation
-from image-processing-desafio-dio.utils import io, plot
+from image_processing_desafio_dio.processing import combination, transformation
+from image_processing_desafio_dio.utils import io, plot
 ```
 
 ## Author
