@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="img_processing_project_dio",
-    version="0.0.3",
+    version="0.0.4",
     author="Thielson Alemendra",
     author_email="thielson12@gmail.com",
     description="This project is part of a bootcamp",
